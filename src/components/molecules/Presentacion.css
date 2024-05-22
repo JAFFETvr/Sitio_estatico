@@ -1,0 +1,13 @@
+#conteiner{
+    width: 70%;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    margin: 10px 0;
+}
+#imag_cont{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    
+}

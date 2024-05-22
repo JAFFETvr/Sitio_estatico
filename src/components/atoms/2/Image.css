@@ -1,0 +1,10 @@
+#img2_cards {
+    border-radius: 30%;
+    width: 15%;
+    border: 1px solid gray;
+    transition: transform 0.3s ease;
+}
+
+#img2_cards:hover {
+    transform: scale(1.1);
+}

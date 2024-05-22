@@ -1,0 +1,21 @@
+#Header{
+    background: linear-gradient(90deg, #0a0a0a, #1a1a1a, #0a0a0a);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid #00ffcc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    
+}
+#img{
+    width: 100px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+#p1{
+    color: aliceblue;
+}
+
+

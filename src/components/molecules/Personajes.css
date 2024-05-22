@@ -1,0 +1,9 @@
+#personajes_conteiner{
+    width: 80%;
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    padding: 10px;
+    margin: 10px 0;
+}
