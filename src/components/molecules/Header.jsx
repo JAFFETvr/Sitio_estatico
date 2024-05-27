@@ -8,7 +8,7 @@ function Header(){
                      <img id="img" src="./descarga-removebg-preview.png" alt="" />
 
                     </header>
-        </div>
+        </div>  
     )
 }
 export default Header
